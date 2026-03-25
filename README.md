@@ -1,2 +1,2 @@
 # Early-detection-and-severity-grading-of-paddy-diseases-using-Deep-learning
-The code develops a deep learning system using EfficientNet and Vision Transformer for paddy disease detection and severity grading. It includes data loading, image preprocessing, severity calculation using segmentation, multi-task model training, evaluation, and prediction generation for real-time agricultural applications.
+The code develops a deep learning system using EfficientNet and Vision Transformer for paddy disease detection and severity grading. It includes data loading, image preprocessing, severity calculation using segmentation, multi-task model training, evaluation, and prediction generation for real-time agricultural applications. used dataset name was Paddy Doctor
